@@ -1,0 +1,2 @@
+transformar is a static device
+it converts energy from electrical to electrical in the magnetic domain
